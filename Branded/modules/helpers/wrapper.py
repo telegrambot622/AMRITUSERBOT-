@@ -68,7 +68,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "💥 Deploy Branded Userbot ✨",
-                            url=f"https://github.com/WCGKING/KINGUSERBOT"
+                            url=f"https://github.com/telegrambot622/AMRITUSERBOT-"
                         )
                     ]
                 ]
@@ -78,7 +78,7 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
+                                photo_url=f"https://telegra.ph/file/a11c781229385dbe7e267.jpg",
                                 title="🥀 Branded Userbot ✨",
                                 thumb_url=f"https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
                                 description=f"🌷 Deploy Your Own Branded-Userbot 🌿...",
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Branded Userbot❗...\n\nRepo:** <i>https://github.com/WCGKING/KINGUSERBOT/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own Branded Userbot❗...\n\nRepo:** <i>https://github.com/telegrambot622/AMRITUSERBOT-/</i>||"
                                 ),
                             )
                         )
